@@ -1,0 +1,55 @@
+@charset "UTF-8";
+h3{
+	text-align:center;
+	vertical-align:top;	
+}
+.toptr{
+	font-size:medium;
+	background-color:yellow;
+}
+.bottomtr{
+	font-size:medium;
+	background-color:yellow;
+}
+th, td{
+	 border:1px;
+}
+.formtable{
+	text-align:center;
+	vertical-align:top;	
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	border:2px solid black;
+	padding : 5px;
+}
+.label{
+	text-align:right;
+	vertical-align:top;
+}
+
+.control{
+	magin-left=20px;
+}
+
+
+input[type=text]{
+	width:300px;
+    border-top-width: 1px;
+    padding-top: 2px;
+	
+}
+input[type=submit]{
+	display:block;
+	width:50%;
+	margin:0 auto;
+}
+input[type=submit]:hover{
+	background-color:gray;
+}
+
+.error{
+	font-size:small;
+	color:red;
+	margin-left:8px;
+}
