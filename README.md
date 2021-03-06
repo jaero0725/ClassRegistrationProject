@@ -10,7 +10,7 @@
 4. Sping Web Form <br>
 *Data Binding, 
 *Data Validation, 
-*Data Buffering<br><br>
+*Data Buffering<br>
 5. loging
 
 위의 기능을 통해서 수강신청 내역에 관하여 CRUD를 기능을 Spring MVC 패턴에 맞추어 구현하였다. 
