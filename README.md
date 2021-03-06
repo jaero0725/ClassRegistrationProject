@@ -1,4 +1,4 @@
-# ClassRegistrationProject
+## ClassRegistrationProject
 
 <프로젝트 개요><br>
 
