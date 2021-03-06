@@ -8,9 +8,9 @@
 2. Spring JDBC<br>
 3. Spring Security 5 <br>
 4. Sping Web Form <br>
-Data Binding
-Data Validation
-Data Buffering<br><br>
+# Data Binding, 
+# Data Validation, 
+# Data Buffering<br><br>
 
 
 
